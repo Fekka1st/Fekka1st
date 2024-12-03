@@ -9,7 +9,7 @@ Laravel, Livewire, MySQL, PostgreSQL, Node-RED
 React, HTML, CSS, JavaScript, Flutter, Tailwind, Boostrap, Component UI
 - 🔧 Embedded Systems: Arduino, IoT
 - 📱 Mobile Development:
-Kodular, Flutter
+Kodular, Flutter, Android Studio (Kotlin)
 - 🐍 Other:
 Python, Java
 I'm always eager to explore new technologies and am currently diving deeper into cloud platforms and AI. ☁️🤖
